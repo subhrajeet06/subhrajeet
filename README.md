@@ -2,7 +2,7 @@
 🎓 1st year AIML student  
 💡 Passionate about AI, ML, Python, and solving real-world problems  
 🚀 Currently working on: Python projects and GitHub profile  
-📫 Connect with me: [LinkedIn] https://linkedin.com/subhrajeet06 | [Instagram] https://instagram.com/subhrajeet._.06
+📫 Connect with me: subhrajeet2006@gmail.com
 
 🧠 Tech Stack  
 - Python  
