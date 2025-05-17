@@ -1,4 +1,5 @@
 ### Hi there 👋 I’m Subhrajeet  
+<br>
 🎓 1st year AIML student  
 💡 Passionate about AI, ML, Python, and solving real-world problems  
 🚀 Currently working on: Python projects and GitHub profile  
