@@ -11,3 +11,5 @@
 - Basics of HTML/CSS
 
 🌱 Fun fact: I love automating boring stuff 😎
+
+Author - Subhrajeet Parida
