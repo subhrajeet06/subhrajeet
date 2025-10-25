@@ -1,10 +1,10 @@
 # Hi there 👋 I’m Subhrajeet  
 🎓 1st year CS IT student  
 💡 Passionate about software, technologies and solving real-world problems  
-🚀 Currently learning Python, and Java
+🚀 Currently learning Python, and Java  
 📫 Connect with me: subhrajeet2006@gmail.com
 
-🧠 Tech Stack  
+### 🧠 Tech Stack
 - Python
 - Java
 - Git & GitHub  
@@ -12,4 +12,4 @@
 
 🌱 Fun fact: I love automating boring stuff 😎
 
-Author - Subhrajeet Parida
+Author ~ _Subhrajeet Parida_
